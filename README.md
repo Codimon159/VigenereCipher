@@ -1,6 +1,6 @@
 # VigenereCipher - Timon Esser
  
-Kleine Lernprogramme zur Verwendung der Vigenère Verschlüsselung mit Encoder und Decoder.
+Kleine c++ Lernprogramme zur Verwendung der Vigenère Verschlüsselung mit Encoder und Decoder.
 Als Ausgangspunkt dient das Vigenère-Quadrat, dass sowohl zur Ver- als auch Entschlüsselung genutzt wird.
 
 Verwendung:
@@ -10,6 +10,8 @@ Verwendung:
 
 Zulässige Zeichen: a-z
 
+Sprache:	c++
+IDE:		codelite mit TDM-GCC
 
 Mehr zur Vigenère Verschlüsselung:https://de.wikipedia.org/wiki/Vigenère-Chiffre
 
